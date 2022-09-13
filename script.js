@@ -54,5 +54,5 @@ button.addEventListener("click", () => {
     <td>${country}</td>`
 
     }
-    //  form.reset();
+    form.reset();
 });
