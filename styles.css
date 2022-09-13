@@ -1,0 +1,23 @@
+body {
+    background-color: #CCD3EB;
+}
+
+.container {
+    background-color: #D3CEDF;
+    border-radius: 20px;
+}
+
+[type=checkbox]:checked {
+    border-color: #748DA6;
+    background-color: #748DA6;
+}
+
+
+[type=radio]:checked {
+    border-color: #748DA6 ;
+    background-color: #748DA6 ;
+}
+
+tbody {
+    background-color: #CCD3EB ;
+}
